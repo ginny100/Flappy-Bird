@@ -2,7 +2,7 @@
 
 ### Overview
 - A simple implementation of the classic Flappy Bird Game in Python using pygame
-- Creates on Nov 24th, 2020
+- Created on Nov 24th, 2020
 - Reference [Clear Code: Creating a Flappy Bird Clone in Python / Pygame](https://www.youtube.com/watch?v=VUFvY349ess)
 
 ### Running
